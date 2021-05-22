@@ -1,0 +1,1554 @@
+[
+   {
+    "word": "victimized",
+    "emotion": " cheated"
+   },{
+      "word": "accused",
+      "emotion": " cheated"
+   },{
+      "word": "acquitted",
+      "emotion": " singled out"
+   },{
+      "word": "adorable",
+      "emotion": " loved"
+   },{
+      "word": "adored",
+      "emotion": " loved"
+   },{
+      "word": "affected",
+      "emotion": " attracted"
+   },{
+      "word": "afflicted",
+      "emotion": " sad"
+   },{
+      "word": "aghast",
+      "emotion": " fearful"
+   },{
+      "word": "agog",
+      "emotion": " attracted"
+   },{
+      "word": "agonized",
+      "emotion": " sad"
+   },{
+      "word": "alarmed",
+      "emotion": " fearful"
+   },{
+      "word": "amused",
+      "emotion": " happy"
+   },{
+      "word": "angry",
+      "emotion": " angry"
+   },{
+      "word": "anguished",
+      "emotion": " sad"
+   },{
+      "word": "animated",
+      "emotion": " happy"
+   },{
+      "word": "annoyed",
+      "emotion": " angry"
+   },{
+      "word": "anxious",
+      "emotion": " attracted"
+   },{
+      "word": "apathetic",
+      "emotion": " bored"
+   },{
+      "word": "appalled",
+      "emotion": " angry"
+   },{
+      "word": "appeased",
+      "emotion": " singled out"
+   },{
+      "word": "appreciated",
+      "emotion": " esteemed"
+   },{
+      "word": "apprehensive",
+      "emotion": " fearful"
+   },{
+      "word": "approved of",
+      "emotion": " loved"
+   },{
+      "word": "ardent",
+      "emotion": " lustful"
+   },{
+      "word": "aroused",
+      "emotion": " lustful"
+   },{
+      "word": "attached",
+      "emotion": " attached"
+   },{
+      "word": "attracted",
+      "emotion": " attracted"
+   },{
+      "word": "autonomous",
+      "emotion": " independent"
+   },{
+      "word": "awed",
+      "emotion": " fearful"
+   },{
+      "word": "awkward",
+      "emotion": " embarrassed"
+   },{
+      "word": "beaten down",
+      "emotion": " powerless"
+   },{
+      "word": "beatific",
+      "emotion": " happy"
+   },{
+      "word": "belonging",
+      "emotion": " attached"
+   },{
+      "word": "bereaved",
+      "emotion": " sad"
+   },{
+      "word": "betrayed",
+      "emotion": " cheated"
+   },{
+      "word": "bewildered",
+      "emotion": " surprise"
+   },{
+      "word": "bitter",
+      "emotion": " angry"
+   },{
+      "word": "blissful",
+      "emotion": " happy"
+   },{
+      "word": "blithe",
+      "emotion": " happy"
+   },{
+      "word": "blocked",
+      "emotion": " powerless"
+   },{
+      "word": "blue",
+      "emotion": " sad"
+   },{
+      "word": "boiling",
+      "emotion": " angry"
+   },{
+      "word": "bold",
+      "emotion": " fearless"
+   },{
+      "word": "bored",
+      "emotion": " bored"
+   },{
+      "word": "brave",
+      "emotion": " fearless"
+   },{
+      "word": "bright",
+      "emotion": " happy"
+   },{
+      "word": "brisk",
+      "emotion": " happy"
+   },{
+      "word": "calm",
+      "emotion": " safe"
+   },{
+      "word": "capable",
+      "emotion": " adequate"
+   },{
+      "word": "captivated",
+      "emotion": " attached"
+   },{
+      "word": "careless",
+      "emotion": " powerless"
+   },{
+      "word": "categorized",
+      "emotion": " singled out"
+   },{
+      "word": "cautious",
+      "emotion": " fearful"
+   },{
+      "word": "certain",
+      "emotion": " fearless"
+   },{
+      "word": "chagrined",
+      "emotion": " belittled"
+   },{
+      "word": "challenged",
+      "emotion": " attracted"
+   },{
+      "word": "chastised",
+      "emotion": " hated"
+   },{
+      "word": "cheated",
+      "emotion": " cheated"
+   },{
+      "word": "cheerful",
+      "emotion": " happy"
+   },{
+      "word": "cheerless",
+      "emotion": " sad"
+   },{
+      "word": "cheery",
+      "emotion": " happy"
+   },{
+      "word": "cherished",
+      "emotion": " attached"
+   },{
+      "word": "chicken",
+      "emotion": " fearful"
+   },{
+      "word": "cocky",
+      "emotion": " independent"
+   },{
+      "word": "codependent",
+      "emotion": " codependent"
+   },{
+      "word": "coerced",
+      "emotion": " cheated"
+   },{
+      "word": "comfortable",
+      "emotion": " happy"
+   },{
+      "word": "common",
+      "emotion": " average"
+   },{
+      "word": "competent",
+      "emotion": " adequate"
+   },{
+      "word": "complacent",
+      "emotion": " apathetic"
+   },{
+      "word": "composed",
+      "emotion": " adequate"
+   },{
+      "word": "concerned",
+      "emotion": " attracted"
+   },{
+      "word": "confident",
+      "emotion": " adequate"
+   },{
+      "word": "confused",
+      "emotion": " surprise"
+   },{
+      "word": "connected",
+      "emotion": " attached"
+   },{
+      "word": "conned",
+      "emotion": " cheated"
+   },{
+      "word": "consumed",
+      "emotion": " obsessed"
+   },{
+      "word": "contented",
+      "emotion": " happy"
+   },{
+      "word": "controlled",
+      "emotion": " powerless"
+   },{
+      "word": "convivial",
+      "emotion": " happy"
+   },{
+      "word": "cornered",
+      "emotion": " entitled"
+   },{
+      "word": "courageous",
+      "emotion": " fearless"
+   },{
+      "word": "cowardly",
+      "emotion": " fearful"
+   },{
+      "word": "craving",
+      "emotion": " attracted"
+   },{
+      "word": "crestfallen",
+      "emotion": " sad"
+   },{
+      "word": "criticized",
+      "emotion": " hated"
+   },{
+      "word": "cross",
+      "emotion": " angry"
+   },{
+      "word": "cross-examined",
+      "emotion": " singled out"
+   },{
+      "word": "crushed",
+      "emotion": " sad"
+   },{
+      "word": "curious",
+      "emotion": " attracted"
+   },{
+      "word": "cut off",
+      "emotion": " alone"
+   },{
+      "word": "daring",
+      "emotion": " fearless"
+   },{
+      "word": "dark",
+      "emotion": " sad"
+   },{
+      "word": "dedicated",
+      "emotion": " attracted"
+   },{
+      "word": "defeated",
+      "emotion": " powerless"
+   },{
+      "word": "defenseless",
+      "emotion": " fearful"
+   },{
+      "word": "degraded",
+      "emotion": " belittled"
+   },{
+      "word": "dejected",
+      "emotion": " sad"
+   },{
+      "word": "depressed",
+      "emotion": " sad"
+   },{
+      "word": "deserted",
+      "emotion": " hated"
+   },{
+      "word": "desirable",
+      "emotion": " loved"
+   },{
+      "word": "despondent",
+      "emotion": " sad"
+   },{
+      "word": "detached",
+      "emotion": " alone"
+   },{
+      "word": "determined",
+      "emotion": " focused"
+   },{
+      "word": "diminished",
+      "emotion": " belittled"
+   },{
+      "word": "disappointed",
+      "emotion": " demoralized"
+   },{
+      "word": "discarded",
+      "emotion": " hated"
+   },{
+      "word": "disconsolate",
+      "emotion": " sad"
+   },{
+      "word": "discontented",
+      "emotion": " sad"
+   },{
+      "word": "discounted",
+      "emotion": " belittled"
+   },{
+      "word": "discouraged",
+      "emotion": " powerless"
+   },{
+      "word": "disgraced",
+      "emotion": " belittled"
+   },{
+      "word": "disgusted",
+      "emotion": " angry"
+   },{
+      "word": "disheartened",
+      "emotion": " demoralized"
+   },{
+      "word": "disillusioned",
+      "emotion": " demoralized"
+   },{
+      "word": "disjointed",
+      "emotion": " derailed"
+   },{
+      "word": "dismal",
+      "emotion": " sad"
+   },{
+      "word": "dismayed",
+      "emotion": " fearful"
+   },{
+      "word": "disoriented",
+      "emotion": " derailed"
+   },{
+      "word": "disparaged",
+      "emotion": " cheated"
+   },{
+      "word": "displeased",
+      "emotion": " sad"
+   },{
+      "word": "disrespected",
+      "emotion": " belittled"
+   },{
+      "word": "distressed",
+      "emotion": " sad"
+   },{
+      "word": "distrustful",
+      "emotion": " anxious"
+   },{
+      "word": "dolorous",
+      "emotion": " sad"
+   },{
+      "word": "doubtful",
+      "emotion": " fearful"
+   },{
+      "word": "down",
+      "emotion": " sad"
+   },{
+      "word": "downhearted",
+      "emotion": " sad"
+   },{
+      "word": "dreadful",
+      "emotion": " sad"
+   },{
+      "word": "dreary",
+      "emotion": " sad"
+   },{
+      "word": "dubious",
+      "emotion": " anxious"
+   },{
+      "word": "dull",
+      "emotion": " sad"
+   },{
+      "word": "duped",
+      "emotion": " cheated"
+   },{
+      "word": "eager",
+      "emotion": " attracted"
+   },{
+      "word": "earnest",
+      "emotion": " attracted"
+   },{
+      "word": "ecstatic",
+      "emotion": " happy"
+   },{
+      "word": "elated",
+      "emotion": " happy"
+   },{
+      "word": "embarrassed",
+      "emotion": " embarrassed"
+   },{
+      "word": "empathetic",
+      "emotion": " attached"
+   },{
+      "word": "enchanted",
+      "emotion": " attracted"
+   },{
+      "word": "encouraged",
+      "emotion": " adequate"
+   },{
+      "word": "engrossed",
+      "emotion": " attracted"
+   },{
+      "word": "enraged",
+      "emotion": " angry"
+   },{
+      "word": "enterprising",
+      "emotion": " fearless"
+   },{
+      "word": "enthusiastic",
+      "emotion": " happy"
+   },{
+      "word": "entrusted",
+      "emotion": " loved"
+   },{
+      "word": "esteemed",
+      "emotion": " esteemed"
+   },{
+      "word": "excited",
+      "emotion": " happy"
+   },{
+      "word": "excluded",
+      "emotion": " alone"
+   },{
+      "word": "exempt",
+      "emotion": " entitled"
+   },{
+      "word": "exhausted hopeless",
+      "emotion": " powerless"
+   },{
+      "word": "exhilarated",
+      "emotion": " happy"
+   },{
+      "word": "exploited",
+      "emotion": " cheated"
+   },{
+      "word": "exposed",
+      "emotion": " fearful"
+   },{
+      "word": "fabulous",
+      "emotion": " ecstatic"
+   },{
+      "word": "fainthearted",
+      "emotion": " fearful"
+   },{
+      "word": "fantastic",
+      "emotion": " ecstatic"
+   },{
+      "word": "fascinated",
+      "emotion": " attracted"
+   },{
+      "word": "favored",
+      "emotion": " entitled"
+   },{
+      "word": "fearful",
+      "emotion": " fearful"
+   },{
+      "word": "fervent",
+      "emotion": " attracted"
+   },{
+      "word": "fervid",
+      "emotion": " attracted"
+   },{
+      "word": "festive",
+      "emotion": " happy"
+   },{
+      "word": "flat",
+      "emotion": " sad"
+   },{
+      "word": "focused",
+      "emotion": " focused"
+   },{
+      "word": "forced",
+      "emotion": " powerless"
+   },{
+      "word": "forsaken",
+      "emotion": " hated"
+   },{
+      "word": "framed",
+      "emotion": " cheated"
+   },{
+      "word": "free",
+      "emotion": " free"
+   },{
+      "word": "free & easy",
+      "emotion": " happy"
+   },{
+      "word": "frightened",
+      "emotion": " fearful"
+   },{
+      "word": "frisky",
+      "emotion": " happy"
+   },{
+      "word": "frustrated",
+      "emotion": " angry"
+   },{
+      "word": "full of anticipation",
+      "emotion": " attracted"
+   },{
+      "word": "full of ennui",
+      "emotion": " apathetic"
+   },{
+      "word": "fuming",
+      "emotion": " angry"
+   },{
+      "word": "funereal",
+      "emotion": " sad"
+   },{
+      "word": "furious",
+      "emotion": " angry"
+   },{
+      "word": "gallant",
+      "emotion": " fearless"
+   },{
+      "word": "genial",
+      "emotion": " happy"
+   },{
+      "word": "glad",
+      "emotion": " happy"
+   },{
+      "word": "gleeful",
+      "emotion": " happy"
+   },{
+      "word": "gloomy",
+      "emotion": " sad"
+   },{
+      "word": "glum",
+      "emotion": " sad"
+   },{
+      "word": "grief-stricken",
+      "emotion": " sad"
+   },{
+      "word": "grieved",
+      "emotion": " sad"
+   },{
+      "word": "guilt",
+      "emotion": " sad"
+   },{
+      "word": "guilty",
+      "emotion": " singled out"
+   },{
+      "word": "happy",
+      "emotion": " happy"
+   },{
+      "word": "hardy",
+      "emotion": " fearless"
+   },{
+      "word": "heartbroken",
+      "emotion": " sad"
+   },{
+      "word": "heavyhearted",
+      "emotion": " sad"
+   },{
+      "word": "hesitant",
+      "emotion": " fearful"
+   },{
+      "word": "high-spirited",
+      "emotion": " happy"
+   },{
+      "word": "hilarious",
+      "emotion": " happy"
+   },{
+      "word": "hopeful",
+      "emotion": " attracted"
+   },{
+      "word": "horny",
+      "emotion": " lustful"
+   },{
+      "word": "horrified",
+      "emotion": " fearful"
+   },{
+      "word": "hot and bothered",
+      "emotion": " lustful"
+   },{
+      "word": "humiliated",
+      "emotion": " sad"
+   },{
+      "word": "humorous",
+      "emotion": " happy"
+   },{
+      "word": "hurt",
+      "emotion": " sad"
+   },{
+      "word": "hysterical",
+      "emotion": " fearful"
+   },{
+      "word": "ignored",
+      "emotion": " hated"
+   },{
+      "word": "ill at ease",
+      "emotion": " sad"
+   },{
+      "word": "immobilized",
+      "emotion": " apathetic"
+   },{
+      "word": "immune",
+      "emotion": " entitled"
+   },{
+      "word": "important",
+      "emotion": " happy"
+   },{
+      "word": "impotent",
+      "emotion": " powerless"
+   },{
+      "word": "imprisoned",
+      "emotion": " entitled"
+   },{
+      "word": "in a huff",
+      "emotion": " angry"
+   },{
+      "word": "in a stew",
+      "emotion": " angry"
+   },{
+      "word": "in control",
+      "emotion": " adequate"
+   },{
+      "word": "in fear",
+      "emotion": " fearful"
+   },{
+      "word": "in pain",
+      "emotion": " sad"
+   },{
+      "word": "in the dumps",
+      "emotion": " sad"
+   },{
+      "word": "in the zone",
+      "emotion": " focused"
+   },{
+      "word": "incensed",
+      "emotion": " angry"
+   },{
+      "word": "included",
+      "emotion": " attached"
+   },{
+      "word": "indecisive",
+      "emotion": " anxious"
+   },{
+      "word": "independent",
+      "emotion": " free"
+   },{
+      "word": "indignant",
+      "emotion": " angry"
+   },{
+      "word": "infatuated",
+      "emotion": " lustful"
+   },{
+      "word": "inflamed",
+      "emotion": " angry"
+   },{
+      "word": "injured",
+      "emotion": " sad"
+   },{
+      "word": "inquisitive",
+      "emotion": " attracted"
+   },{
+      "word": "insecure",
+      "emotion": " codependent"
+   },{
+      "word": "insignificant",
+      "emotion": " belittled"
+   },{
+      "word": "intent",
+      "emotion": " attracted"
+   },{
+      "word": "interested",
+      "emotion": " attracted"
+   },{
+      "word": "interrogated",
+      "emotion": " singled out"
+   },{
+      "word": "intrigued",
+      "emotion": " attracted"
+   },{
+      "word": "irate",
+      "emotion": " angry"
+   },{
+      "word": "irresolute",
+      "emotion": " fearful"
+   },{
+      "word": "irresponsible",
+      "emotion": " powerless"
+   },{
+      "word": "irritated",
+      "emotion": " angry"
+   },{
+      "word": "isolated",
+      "emotion": " alone"
+   },{
+      "word": "jaunty",
+      "emotion": " happy"
+   },{
+      "word": "jocular",
+      "emotion": " happy"
+   },{
+      "word": "jolly",
+      "emotion": " happy"
+   },{
+      "word": "jovial",
+      "emotion": " happy"
+   },{
+      "word": "joyful",
+      "emotion": " happy"
+   },{
+      "word": "joyless",
+      "emotion": " sad"
+   },{
+      "word": "joyous",
+      "emotion": " happy"
+   },{
+      "word": "jubilant",
+      "emotion": " happy"
+   },{
+      "word": "justified",
+      "emotion": " singled out"
+   },{
+      "word": "keen",
+      "emotion": " attracted"
+   },{
+      "word": "labeled",
+      "emotion": " singled out"
+   },{
+      "word": "lackadaisical",
+      "emotion": " bored"
+   },{
+      "word": "lazy",
+      "emotion": " apathetic"
+   },{
+      "word": "left out",
+      "emotion": " hated"
+   },{
+      "word": "let down",
+      "emotion": " hated"
+   },{
+      "word": "lethargic",
+      "emotion": " apathetic"
+   },{
+      "word": "lied to",
+      "emotion": " cheated"
+   },{
+      "word": "lighthearted",
+      "emotion": " happy"
+   },{
+      "word": "liked",
+      "emotion": " attached"
+   },{
+      "word": "lively",
+      "emotion": " happy"
+   },{
+      "word": "livid",
+      "emotion": " angry"
+   },{
+      "word": "lonely",
+      "emotion": " alone"
+   },{
+      "word": "lonesome",
+      "emotion": " alone"
+   },{
+      "word": "lost",
+      "emotion": " lost"
+   },{
+      "word": "loved",
+      "emotion": " attached"
+   },{
+      "word": "low",
+      "emotion": " sad"
+   },{
+      "word": "lucky",
+      "emotion": " happy"
+   },{
+      "word": "lugubrious",
+      "emotion": " sad"
+   },{
+      "word": "macho",
+      "emotion": " independent"
+   },{
+      "word": "mad",
+      "emotion": " angry"
+   },{
+      "word": "melancholy",
+      "emotion": " sad"
+   },{
+      "word": "menaced",
+      "emotion": " fearful"
+   },{
+      "word": "merry",
+      "emotion": " happy"
+   },{
+      "word": "mirthful",
+      "emotion": " happy"
+   },{
+      "word": "misgiving",
+      "emotion": " fearful"
+   },{
+      "word": "misunderstood",
+      "emotion": " alone"
+   },{
+      "word": "moody",
+      "emotion": " sad"
+   },{
+      "word": "moping",
+      "emotion": " sad"
+   },{
+      "word": "motivated",
+      "emotion": " attracted"
+   },{
+      "word": "mournful",
+      "emotion": " sad"
+   },{
+      "word": "needed",
+      "emotion": " attracted"
+   },{
+      "word": "needy",
+      "emotion": " codependent"
+   },{
+      "word": "nervous",
+      "emotion": " fearful"
+   },{
+      "word": "obligated",
+      "emotion": " powerless"
+   },{
+      "word": "obsessed",
+      "emotion": " obsessed"
+   },{
+      "word": "offended",
+      "emotion": " angry"
+   },{
+      "word": "oppressed",
+      "emotion": " sad"
+   },{
+      "word": "optionless",
+      "emotion": " entitled"
+   },{
+      "word": "ordinary",
+      "emotion": " average"
+   },{
+      "word": "organized",
+      "emotion": " adequate"
+   },{
+      "word": "out of control",
+      "emotion": " powerless"
+   },{
+      "word": "out of sorts",
+      "emotion": " sad"
+   },{
+      "word": "outmaneuvered",
+      "emotion": " entitled"
+   },{
+      "word": "outraged",
+      "emotion": " angry"
+   },{
+      "word": "overjoyed",
+      "emotion": " happy"
+   },{
+      "word": "overlooked",
+      "emotion": " hated"
+   },{
+      "word": "overwhelmed",
+      "emotion": " powerless"
+   },{
+      "word": "panicked",
+      "emotion": " fearful"
+   },{
+      "word": "passionate",
+      "emotion": " lustful"
+   },{
+      "word": "passive",
+      "emotion": " apathetic"
+   },{
+      "word": "pathetic",
+      "emotion": " sad"
+   },{
+      "word": "peaceful",
+      "emotion": " safe"
+   },{
+      "word": "pensive",
+      "emotion": " anxious"
+   },{
+      "word": "perplexed",
+      "emotion": " anxious"
+   },{
+      "word": "phobic",
+      "emotion": " fearful"
+   },{
+      "word": "playful",
+      "emotion": " happy"
+   },{
+      "word": "pleased",
+      "emotion": " happy"
+   },{
+      "word": "powerless",
+      "emotion": " powerless"
+   },{
+      "word": "pressured",
+      "emotion": " burdened"
+   },{
+      "word": "privileged",
+      "emotion": " entitled"
+   },{
+      "word": "proud",
+      "emotion": " happy"
+   },{
+      "word": "provoked",
+      "emotion": " angry"
+   },{
+      "word": "punished",
+      "emotion": " hated"
+   },{
+      "word": "put upon",
+      "emotion": " burdened"
+   },{
+      "word": "quaking",
+      "emotion": " fearful"
+   },{
+      "word": "quiescent",
+      "emotion": " apathetic"
+   },{
+      "word": "rageful",
+      "emotion": " angry"
+   },{
+      "word": "rapturous",
+      "emotion": " happy"
+   },{
+      "word": "rated",
+      "emotion": " singled out"
+   },{
+      "word": "reassured",
+      "emotion": " fearless"
+   },{
+      "word": "reckless",
+      "emotion": " powerless"
+   },{
+      "word": "redeemed",
+      "emotion": " singled out"
+   },{
+      "word": "regretful",
+      "emotion": " sad"
+   },{
+      "word": "rejected",
+      "emotion": " alone"
+   },{
+      "word": "released",
+      "emotion": " free"
+   },{
+      "word": "remorse",
+      "emotion": " sad"
+   },{
+      "word": "replaced",
+      "emotion": " hated"
+   },{
+      "word": "repulsed",
+      "emotion": " demoralized"
+   },{
+      "word": "resentful",
+      "emotion": " angry"
+   },{
+      "word": "resolute",
+      "emotion": " fearless"
+   },{
+      "word": "respected",
+      "emotion": " esteemed"
+   },{
+      "word": "responsible",
+      "emotion": " adequate"
+   },{
+      "word": "restful",
+      "emotion": " fearful"
+   },{
+      "word": "revered",
+      "emotion": " esteemed"
+   },{
+      "word": "rueful",
+      "emotion": " sad"
+   },{
+      "word": "sad",
+      "emotion": " sad"
+   },{
+      "word": "satisfied",
+      "emotion": " happy"
+   },{
+      "word": "saucy",
+      "emotion": " happy"
+   },{
+      "word": "scared",
+      "emotion": " fearful"
+   },{
+      "word": "secure",
+      "emotion": " fearless"
+   },{
+      "word": "self-reliant",
+      "emotion": " fearless"
+   },{
+      "word": "serene",
+      "emotion": " happy"
+   },{
+      "word": "shaky",
+      "emotion": " fearful"
+   },{
+      "word": "shamed",
+      "emotion": " sad"
+   },{
+      "word": "shocked",
+      "emotion": " surprise"
+   },{
+      "word": "significant",
+      "emotion": " esteemed"
+   },{
+      "word": "singled out",
+      "emotion": " singled out"
+   },{
+      "word": "skeptical",
+      "emotion": " anxious"
+   },{
+      "word": "snoopy",
+      "emotion": " attracted"
+   },{
+      "word": "somber",
+      "emotion": " sad"
+   },{
+      "word": "sparkling",
+      "emotion": " happy"
+   },{
+      "word": "spirited",
+      "emotion": " happy"
+   },{
+      "word": "spiritless",
+      "emotion": " sad"
+   },{
+      "word": "sprightly",
+      "emotion": " happy"
+   },{
+      "word": "startled",
+      "emotion": " surprise"
+   },{
+      "word": "stereotyped",
+      "emotion": " singled out"
+   },{
+      "word": "stifled",
+      "emotion": " powerless"
+   },{
+      "word": "stout hearted",
+      "emotion": " fearless"
+   },{
+      "word": "strong",
+      "emotion": " independent"
+   },{
+      "word": "suffering",
+      "emotion": " sad"
+   },{
+      "word": "sulky",
+      "emotion": " sad"
+   },{
+      "word": "sullen",
+      "emotion": " angry"
+   },{
+      "word": "sunny",
+      "emotion": " happy"
+   },{
+      "word": "surprised",
+      "emotion": " surprise"
+   },{
+      "word": "suspicious",
+      "emotion": " anxious"
+   },{
+      "word": "sympathetic",
+      "emotion": " codependent"
+   },{
+      "word": "tense",
+      "emotion": " anxious"
+   },{
+      "word": "terrified",
+      "emotion": " fearful"
+   },{
+      "word": "terrorized",
+      "emotion": " fearful"
+   },{
+      "word": "thankful",
+      "emotion": " happy"
+   },{
+      "word": "threatened",
+      "emotion": " fearful"
+   },{
+      "word": "thwarted",
+      "emotion": " powerless"
+   },{
+      "word": "timid",
+      "emotion": " fearful"
+   },{
+      "word": "timorous",
+      "emotion": " fearful"
+   },{
+      "word": "torn",
+      "emotion": " derailed"
+   },{
+      "word": "tortured",
+      "emotion": " sad"
+   },{
+      "word": "tragic",
+      "emotion": " sad"
+   },{
+      "word": "tranquil",
+      "emotion": " happy"
+   },{
+      "word": "transported",
+      "emotion": " happy"
+   },{
+      "word": "trapped",
+      "emotion": " entitled"
+   },{
+      "word": "tremulous",
+      "emotion": " fearful"
+   },{
+      "word": "tricked",
+      "emotion": " entitled"
+   },{
+      "word": "turned on",
+      "emotion": " lustful"
+   },{
+      "word": "unapproved of",
+      "emotion": " hated"
+   },{
+      "word": "unbelieving",
+      "emotion": " anxious"
+   },{
+      "word": "uncertain",
+      "emotion": " anxious"
+   },{
+      "word": "unconcerned",
+      "emotion": " apathetic"
+   },{
+      "word": "understood",
+      "emotion": " attached"
+   },{
+      "word": "unfocussed",
+      "emotion": " lost"
+   },{
+      "word": "unlovable",
+      "emotion": " hated"
+   },{
+      "word": "unloved",
+      "emotion": " hated"
+   },{
+      "word": "unmotivated",
+      "emotion": " apathetic"
+   },{
+      "word": "unshackled",
+      "emotion": " free"
+   },{
+      "word": "unsupported",
+      "emotion": " belittled"
+   },{
+      "word": "up in arms",
+      "emotion": " angry"
+   },{
+      "word": "upset",
+      "emotion": " fearful"
+   },{
+      "word": "validated",
+      "emotion": " loved"
+   },{
+      "word": "valued",
+      "emotion": " esteemed"
+   },{
+      "word": "victimized",
+      "emotion": " sad"
+   },{
+      "word": "violated",
+      "emotion": " cheated"
+   },{
+      "word": "virulent",
+      "emotion": " angry"
+   },{
+      "word": "vivacious",
+      "emotion": " happy"
+   },{
+      "word": "vulnerable",
+      "emotion": " powerless"
+   },{
+      "word": "wavering",
+      "emotion": " anxious"
+   },{
+      "word": "weak",
+      "emotion": " powerless"
+   },{
+      "word": "welcomed",
+      "emotion": " loved"
+   },{
+      "word": "woebegone",
+      "emotion": " sad"
+   },{
+      "word": "woeful",
+      "emotion": " sad"
+   },{
+      "word": "worn down",
+      "emotion": " powerless"
+   },{
+      "word": "worn out",
+      "emotion": " powerless"
+   },{
+      "word": "worried",
+      "emotion": " fearful"
+   },{
+      "word": "worshiped",
+      "emotion": " esteemed"
+   },{
+      "word": "wrathful",
+      "emotion": " angry"
+   },{
+      "word": "wronged",
+      "emotion": " singled out"
+   },{
+      "word": "wrought up",
+      "emotion": " angry"
+   },{
+      "word": "yearning",
+      "emotion": " lustful"
+   },{
+      "word": "yellow",
+      "emotion": " fearful"
+   },{
+      "word": "zealous",
+      "emotion": " attracted"
+   },{
+      "word": "abandoned",
+      "emotion": " hated"
+   },{
+      "word": "absolved",
+      "emotion": " singled out"
+   },{
+      "word": "absorbed",
+      "emotion": " attracted"
+   },{
+      "word": "abused",
+      "emotion": " powerless"
+   },{
+      "word": "accepted",
+      "emotion": " loved"
+   },{
+      "word": "aching",
+      "emotion": " sad"
+   },{
+      "word": "acrimonious",
+      "emotion": " angry"
+   },{
+      "word": "addicted",
+      "emotion": " codependent"
+   },{
+      "word": "adequate",
+      "emotion": " adequate"
+   },{
+      "word": "admired",
+      "emotion": " esteemed"
+   },{
+      "word": "affectionate",
+      "emotion": " attached"
+   },{
+      "word": "affronted",
+      "emotion": " singled out"
+   },{
+      "word": "afraid",
+      "emotion": " fearful"
+   },{
+      "word": "airy",
+      "emotion": " happy"
+   },{
+      "word": "alone",
+      "emotion": " alone"
+   },{
+      "word": "ambivalent",
+      "emotion": " bored"
+   },{
+      "word": "apathetic",
+      "emotion": " apathetic"
+   },{
+      "word": "apprehensive",
+      "emotion": " anxious"
+   },{
+      "word": "arrogant",
+      "emotion": " independent"
+   },{
+      "word": "ashamed",
+      "emotion": " embarrassed"
+   },{
+      "word": "astonished",
+      "emotion": " surprise"
+   },{
+      "word": "at ease",
+      "emotion": " safe"
+   },{
+      "word": "attacked",
+      "emotion": " fearful"
+   },{
+      "word": "audacious",
+      "emotion": " fearless"
+   },{
+      "word": "autonomous",
+      "emotion": " free"
+   },{
+      "word": "average",
+      "emotion": " average"
+   },{
+      "word": "avid",
+      "emotion": " attracted"
+   },{
+      "word": "baffled",
+      "emotion": " lost"
+   },{
+      "word": "bashful",
+      "emotion": " powerless"
+   },{
+      "word": "belittled",
+      "emotion": " belittled"
+   },{
+      "word": "buoyant",
+      "emotion": " happy"
+   },{
+      "word": "burdened",
+      "emotion": " burdened"
+   },{
+      "word": "clouded",
+      "emotion": " sad"
+   },{
+      "word": "committed",
+      "emotion": " focused"
+   },{
+      "word": "compassionate",
+      "emotion": " attached"
+   },{
+      "word": "compelled",
+      "emotion": " obsessed"
+   },{
+      "word": "dauntless",
+      "emotion": " fearless"
+   },{
+      "word": "debonair",
+      "emotion": " happy"
+   },{
+      "word": "deceived",
+      "emotion": " entitled"
+   },{
+      "word": "delighted",
+      "emotion": " ecstatic"
+   },{
+      "word": "demoralized",
+      "emotion": " demoralized"
+   },{
+      "word": "derailed",
+      "emotion": " derailed"
+   },{
+      "word": "desirous",
+      "emotion": " attracted"
+   },{
+      "word": "despairing",
+      "emotion": " sad"
+   },{
+      "word": "devastated",
+      "emotion": " angry"
+   },{
+      "word": "diffident",
+      "emotion": " fearful"
+   },{
+      "word": "discredited",
+      "emotion": " belittled"
+   },{
+      "word": "disheartened",
+      "emotion": " sad"
+   },{
+      "word": "disinclined",
+      "emotion": " demoralized"
+   },{
+      "word": "disorganized",
+      "emotion": " powerless"
+   },{
+      "word": "downcast",
+      "emotion": " sad"
+   },{
+      "word": "entitled",
+      "emotion": " entitled"
+   },{
+      "word": "excited",
+      "emotion": " adequate"
+   },{
+      "word": "exultant",
+      "emotion": " happy"
+   },{
+      "word": "fidgety",
+      "emotion": " fearful"
+   },{
+      "word": "frowning",
+      "emotion": " sad"
+   },{
+      "word": "full of misgiving",
+      "emotion": " anxious"
+   },{
+      "word": "great",
+      "emotion": " happy"
+   },{
+      "word": "hapless",
+      "emotion": " sad"
+   },{
+      "word": "hated",
+      "emotion": " hated"
+   },{
+      "word": "heroic",
+      "emotion": " fearless"
+   },{
+      "word": "hostile",
+      "emotion": " angry"
+   },{
+      "word": "in despair",
+      "emotion": " sad"
+   },{
+      "word": "indifferent",
+      "emotion": " bored"
+   },{
+      "word": "infuriated",
+      "emotion": " angry"
+   },{
+      "word": "insecure",
+      "emotion": " fearful"
+   },{
+      "word": "inspired",
+      "emotion": " happy"
+   },{
+      "word": "inspiring",
+      "emotion": " attracted"
+   },{
+      "word": "judged",
+      "emotion": " singled out"
+   },{
+      "word": "justified",
+      "emotion": " singled out"
+   },{
+      "word": "laughting",
+      "emotion": " happy"
+   },{
+      "word": "loved",
+      "emotion": " loved"
+   },{
+      "word": "loving",
+      "emotion": " attached"
+   },{
+      "word": "low",
+      "emotion": " sad"
+   },{
+      "word": "lustful",
+      "emotion": " lustful"
+   },{
+      "word": "manipulated",
+      "emotion": " cheated"
+   },{
+      "word": "mumpish",
+      "emotion": " sad"
+   },{
+      "word": "nosey",
+      "emotion": " attracted"
+   },{
+      "word": "numb",
+      "emotion": " apathetic"
+   },{
+      "word": "obliterated",
+      "emotion": " powerless"
+   },{
+      "word": "peaceful",
+      "emotion": " happy"
+   },{
+      "word": "petrified",
+      "emotion": " fearful"
+   },{
+      "word": "piqued",
+      "emotion": " angry"
+   },{
+      "word": "piteous",
+      "emotion": " sad"
+   },{
+      "word": "powerless",
+      "emotion": " powerless"
+   },{
+      "word": "questioning",
+      "emotion": " anxious"
+   },{
+      "word": "rejected",
+      "emotion": " hated"
+   },{
+      "word": "self-satisfied",
+      "emotion": " happy"
+   },{
+      "word": "set up",
+      "emotion": " entitled"
+   },{
+      "word": "shut out",
+      "emotion": " alone"
+   },{
+      "word": "sorrowful",
+      "emotion": " sad"
+   },{
+      "word": "spirited",
+      "emotion": " sad"
+   },{
+      "word": "supported",
+      "emotion": " esteemed"
+   },{
+      "word": "suspicious",
+      "emotion": " fearful"
+   },{
+      "word": "terrific",
+      "emotion": " happy"
+   },{
+      "word": "trapped",
+      "emotion": " entitled"
+   },{
+      "word": "trembling",
+      "emotion": " fearful"
+   },{
+      "word": "uncomfortable",
+      "emotion": " anxious"
+   },{
+      "word": "underestimated",
+      "emotion": " belittled"
+   },{
+      "word": "unhappy",
+      "emotion": " sad"
+   },{
+      "word": "vindicated",
+      "emotion": " singled out"
+   },{
+      "word": "worked up",
+      "emotion": " angry"
+   }
+]

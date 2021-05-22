@@ -1,0 +1,10 @@
+<form>
+          <label>Text:</label>
+          <input 
+            type="text" 
+            name="text" 
+            value={this.state.text} 
+            onChange={this.handleChange} 
+          />
+          <input type="submit" value="analyse" />
+        </form>
