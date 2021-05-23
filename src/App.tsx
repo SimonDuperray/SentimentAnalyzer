@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import emotions from "./base_json.json";
-import SecondChart from "./components/SecondChart";
+import PieChartComp from "./components/PieChartComp";
 
 interface IState {
   text: string;
@@ -20,13 +20,15 @@ export default class App extends React.Component<{}, IState> {
   }
 
   counter(array: Array<string>): Object{
-    return array.reduce(
-      (prev: any, curr) => ({
-        ...prev,
-        [curr]: 1+(prev[curr] || 0),
-      }),
-      {}
-    );
+    if(array != []){
+      return array.reduce(
+        (prev: any, curr) => ({
+          ...prev,
+          [curr]: 1+(prev[curr] || 0),
+        }),
+        {}
+      ); 
+      } else {return [];}
   };
 
   analyzeSentiment(text: string): void {
@@ -65,8 +67,9 @@ export default class App extends React.Component<{}, IState> {
     let finalCleanedData: Array<Object> = [];
     for(let i: number = 0; i<Object.keys(countedData).length; i++) {
       finalCleanedData.push({
-        name: Object.keys(countedData)[i],
-        value: Object.values(countedData)[i]
+        "emotion": Object.keys(countedData)[i],
+        "emotions": Object.values(countedData)[i],
+        "fullMark": Object.values(countedData).reduce((a, b) => a+b)
       });
     }
     this.setState({ analyzeResults: finalCleanedData });
@@ -80,17 +83,13 @@ export default class App extends React.Component<{}, IState> {
   }
   
   render() {
-    const dataRecharts: any = [
-      { name: "Facebook", value: 200000000 },
-      { name: "Instagram", value: 140000000 },
-      { name: "Twitter", value: 300000000 },
-      { name: "TikTok", value: 1000000000 },
-   ]
-    console.log(this.state);
     return (
       <div className="App-header">
+        <h1>Sentiment Analyzer</h1>
         <form onSubmit={event => this.handleSubmit(event)}>
           <textarea
+            cols={50}
+            rows={10}
             placeholder="text to analyze"
             onChange={event => this.setState({ text: event.target.value})}
           />
@@ -98,23 +97,15 @@ export default class App extends React.Component<{}, IState> {
         </form>
         {
           this.state.showDiag ? (
-            <div>
-              <SecondChart
-                width={400}
-                height={400}
-                dataKey="value"
-                isAnimationActive={false}
-                data={this.state.analyzeResults}
-                cx={200}
-                cy={200}
-                outerRadius={80}
-                fill="#8884d8"
-              />
-            </div>
+            <PieChartComp 
+              width={730}
+              height={250}
+              data={this.state.analyzeResults}
+              dataKeyXAxis="emotion"
+              dataKeyBar="emotions"
+            />
           ) : (
-            <div>
-              No data stored
-            </div>
+            <div />
           )
         }
       </div>
