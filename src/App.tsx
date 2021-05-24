@@ -87,27 +87,37 @@ export default class App extends React.Component<{}, IState> {
       <div className="App-header">
         <h1>Sentiment Analyzer</h1>
         <form onSubmit={event => this.handleSubmit(event)}>
-          <textarea
-            cols={50}
-            rows={10}
-            placeholder="text to analyze"
-            onChange={event => this.setState({ text: event.target.value})}
-          />
-          <button type="submit">Anayze</button>
-        </form>
-        {
-          this.state.showDiag ? (
-            <PieChartComp 
-              width={730}
-              height={250}
-              data={this.state.analyzeResults}
-              dataKeyXAxis="emotion"
-              dataKeyBar="emotions"
+          <div>
+            <textarea
+              cols={80}
+              rows={12}
+              placeholder="text to analyze"
+              onChange={event => this.setState({ text: event.target.value})}
+              spellCheck={false}
             />
-          ) : (
-            <div />
-          )
-        }
+          </div>
+          <div className="App-center">
+            <button className="App-btn" type="submit">Run</button>
+          </div>
+        </form>
+        <div className="App-marginT">
+          {
+            this.state.showDiag ? (
+              <div className="App">
+                <h3 className="App-results">Results</h3>
+                <PieChartComp 
+                  width={1000}
+                  height={300}
+                  data={this.state.analyzeResults}
+                  dataKeyXAxis="emotion"
+                  dataKeyBar="emotions"
+                />
+              </div>
+            ) : (
+              <div />
+            )
+          }
+        </div>
       </div>
     );
   }

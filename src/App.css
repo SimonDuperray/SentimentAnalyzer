@@ -1,16 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -19,20 +10,37 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: "Roboto";
 }
 
-.App-link {
-  color: #61dafb;
+.App-marginT {
+  margin-top: 40px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-center {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.App-results {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.App-btn {
+  padding: 7px 25px;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #282C34;
+  border: 1px solid #000;
+  transition: background 0.8s;
+}
+
+.App-btn:hover{
+  cursor: pointer;
+  color: #282C34;
+  background-color: #fff;
+  transition: background 0.8s;
 }

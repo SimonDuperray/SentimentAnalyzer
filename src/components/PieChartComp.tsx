@@ -2,7 +2,7 @@ import {
    BarChart,
    CartesianGrid,
    XAxis, YAxis,
-   Tooltip, Legend,
+   Legend,
    Bar
  } from "recharts";
 
@@ -25,9 +25,8 @@ const PieChartComp = ({
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey={dataKeyXAxis} />
             <YAxis />
-            <Tooltip />
             <Legend />
-            <Bar dataKey={dataKeyBar} fill="#8884d8" />
+            <Bar dataKey={dataKeyBar} fill="lightcoral" />
          </BarChart>
       </div>
    );
